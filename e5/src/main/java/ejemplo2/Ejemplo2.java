@@ -34,6 +34,6 @@ public class Ejemplo2 {
 
         Mono<Integer> r = Ejemplo2.reto();
         System.out.println("RETO: "+mi.block());
-        
+
     }
 }
